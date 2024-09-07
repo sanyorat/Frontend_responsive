@@ -1,6 +1,6 @@
 # Responsive Web Application with Chatbot Integration
 
-This project is a modern, responsive web application built using React, React Router, and Ant Design, with internationalization support via i18next. Additionally, it features a backend-integrated chatbot for dynamic user interactions.
+This project is a modern, responsive web application built using React, React Router. Additionally, it features a backend-integrated chatbot for dynamic user interactions.
 
 ## Features
 - **Responsive Design**: Built with a mobile-first approach and adaptable layouts for all screen sizes.
@@ -13,7 +13,6 @@ This project is a modern, responsive web application built using React, React Ro
 ## Tech Stack
 - **React**: JavaScript library for building dynamic user interfaces.
 - **React Router**: For handling navigation and routing within the application.
-- **i18next**: Provides internationalization capabilities.
 - **Ant Design**: A comprehensive UI component library.
 - **Chatbot**: Backend-integrated chatbot for user interaction.
 - **Lazy Loading**: Optimizes performance by loading components only when needed.
